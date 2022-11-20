@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8F217EAA-2770-45A8-935E-523CCFEA440E}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AssetProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssetProject/Controllers/AssetController.cs">
+    <Files>
+      <File FileName="AssetProject/appsettings.json" Line="3" Column="101" />
+      <File FileName="AssetProject/Program.cs" Line="8" Column="44" />
+      <File FileName="AssetProject/Model/Asset.cs" Line="3" Column="52" />
+      <File FileName="AssetProject/Model/AssetDBContext.cs" />
+      <File FileName="AssetProject/Controllers/AssetController.cs" Line="102" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssetProject" expanded="True">
+            <Node name="AssetProject" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AssetController.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
